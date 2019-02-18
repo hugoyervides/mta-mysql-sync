@@ -1,0 +1,6 @@
+<meta>
+     <info author="ShadoXOy" type="script" name="MySQL Money Sync System" description="Syncs the money from the database with the server" />
+	 <script src="server.lua" type="server"/>
+	 <export function="getUserData" type="server" /> 
+	 <export function="updateUserData" type="server" /> 
+</meta>
